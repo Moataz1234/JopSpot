@@ -1,2 +1,1 @@
-# JopSpot
- My Graduation Project
+# Jobspot_Application_GP
